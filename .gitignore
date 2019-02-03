@@ -1,7 +1,7 @@
 public/
 node_modules/
-Kettle.iml
+www-kettle.be.iml
 *.lock
 package-lock.json
 package.json
-
+.idea/
