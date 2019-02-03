@@ -5,3 +5,5 @@ www-kettle.be.iml
 package-lock.json
 package.json
 .idea/
+*.zip
+.cache/

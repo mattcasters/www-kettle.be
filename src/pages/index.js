@@ -1,8 +1,6 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
@@ -28,7 +26,7 @@ const IndexPage = () => (
       <a href="https://github.com/mattcasters/kettle-environment">Environment</a><br/>
       <a href="https://github.com/mattcasters/kettle-needful-things">Needful Things</a><br/>
       <a href="https://github.com/mattcasters/pentaho-pdi-dataset">Data sets and unit testing</a><br/>
-      <a href="https://github.com/mattcasters/kettle-debug">Debugging</a><br/>
+      <a href="https://github.com/mattcasters/kettle-debug-plugin">Debugging</a><br/>
       <a href="https://github.com/mattcasters/load-text-from-file-plugin">Load Text From File (Apache Tika)</a><br/>
       <a href="https://github.com/mattcasters/metastore">Metastore utilities</a><br/>
       <a href="https://github.com/mattcasters/kettle-mongodb-changes">Read from MongoDB changes stream</a><br/>
