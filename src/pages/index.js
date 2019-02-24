@@ -14,8 +14,13 @@ const IndexPage = () => (
       <a href="https://medium.com/neo4j/getting-started-with-kettle-and-neo4j-32ff15b991f9" target="_blank">Getting set up with Kettle and Neo4j (Medium)</a><br/>
       <p/>
       <h2>Downloads</h2>
-      <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.1-REMIX.zip">Download the nightly built Kettle/Neo4j REMIX version 8.2.0.1 (>1GB)</a><br/>
-      <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-beam-remix-8.2.0.1-REMIX.zip">Download the nightly built Kettle/Neo4j REMIX version 8.2.0.1 with initial Apache Beam support (UNSTABLE, >1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.3-519-REMIX.zip">kettle-neo4j-remix-8.2.0.3-519-REMIX.zip (>1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.3-519-REMIX.tgz">kettle-neo4j-remix-8.2.0.3-519-REMIX.tgz (>1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.3-519-REMIX.zip">kettle-neo4j-remix-8.2.0.3-519-REMIX.zip (build log with version info)</a><br/>
+          <br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.zip">kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.zip (UNSTABLE, >1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.tgz">kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.tgz (UNSTABLE, >1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.log">kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.log (build log with version info)</a><br/>
       <a href="https://hub.docker.com/r/mattcasters/webspoon-neo4j/">WebSpoon docker image with Neo4j solutions plugins</a><br/>
       <p/>
       <h2>Kettle plugins for Neo4j</h2>
