@@ -14,14 +14,16 @@ const IndexPage = () => (
       <a href="https://medium.com/neo4j/getting-started-with-kettle-and-neo4j-32ff15b991f9" target="_blank">Getting set up with Kettle and Neo4j (Medium)</a><br/>
       <p/>
       <h2>Downloads</h2>
-          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.3-519-REMIX.zip">kettle-neo4j-remix-8.2.0.3-519-REMIX.zip (>1GB)</a><br/>
-          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.3-519-REMIX.tgz">kettle-neo4j-remix-8.2.0.3-519-REMIX.tgz (>1GB)</a><br/>
-          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.3-519-REMIX.zip">kettle-neo4j-remix-8.2.0.3-519-REMIX.zip (build log with version info)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.7-719-REMIX.zip">kettle-neo4j-remix-8.2.0.7-719-REMIX.zip (>1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.7-719-REMIX.tgz">kettle-neo4j-remix-8.2.0.7-719-REMIX.tgz (>1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-8.2.0.7-719-REMIX.log">kettle-neo4j-remix-8.2.0.7-719-REMIX.log (build log with version info)</a><br/>
+          <a href="http://remix.kettle.be">Basic documentation for this Remix download</a><br/>
           <br/>
-          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.zip">kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.zip (UNSTABLE, >1GB)</a><br/>
-          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.tgz">kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.tgz (UNSTABLE, >1GB)</a><br/>
-          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.log">kettle-neo4j-remix-beam-8.2.0.3-519-REMIX.log (build log with version info)</a><br/>
-      <a href="https://hub.docker.com/r/mattcasters/webspoon-neo4j/">WebSpoon docker image with Neo4j solutions plugins</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.7-719-REMIX.zip">kettle-neo4j-remix-beam-8.2.0.7-719-REMIX.zip (UNSTABLE, >1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.7-719-REMIX.tgz">kettle-neo4j-remix-beam-8.2.0.7-719-REMIX.tgz (UNSTABLE, >1GB)</a><br/>
+          <a href="https://s3.amazonaws.com/kettle-neo4j/kettle-neo4j-remix-beam-8.2.0.7-719-REMIX.log">kettle-neo4j-remix-beam-8.2.0.7-719-REMIX.log (build log with version info)</a><br/>
+          <br/>
+          <a href="https://hub.docker.com/r/mattcasters/webspoon-neo4j/">WebSpoon docker image with Neo4j solutions plugins</a><br/>
       <p/>
       <h2>Kettle plugins for Neo4j</h2>
       <a href="https://github.com/knowbi/knowbi-pentaho-pdi-neo4j-output">Neo4j plugins for Kettle </a><br/>
